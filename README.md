@@ -1,17 +1,14 @@
-#Fake Dataset Classification using Bidirectional LSTM
+**#Fake Dataset Classification using Bidirectional LSTM**
+
 Overview
 
-This project demonstrates text classification on a dataset containing fake and real entries. The goal is to predict whether a given text is fake or not using a Bidirectional LSTM model.
-
-Bidirectional LSTMs are a type of recurrent neural network (RNN) that process data in both forward and backward directions, capturing context from past and future tokens in the sequence, which improves performance on text data.
+This project demonstrates text classification on a dataset containing fake and real entries. The goal is to predict whether a given text is fake or not using a Bidirectional LSTM model.Bidirectional LSTMs are a type of recurrent neural network (RNN) that process data in both forward and backward directions, capturing context from past and future tokens in the sequence, which improves performance on text data.
 
 Dataset
 
 The dataset consists of text entries labeled as Fake or Real.
 
 Columns: text (input), label (target).
-
-Source: [Provide source if any] or generated synthetic dataset.
 
 Approach
 
